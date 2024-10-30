@@ -8,5 +8,5 @@ ONLY CN
 <git clone https://github.com/youlipeierges/ONLYCNDDOS>  
 <cd ONLYCNDDOS>  
 <python3 80.py>  
-或者
+或者  
 <python 80.py>  
