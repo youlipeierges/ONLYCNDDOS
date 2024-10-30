@@ -14,6 +14,6 @@
 或者  
 `python 80.py`  
 
-python安装指令依赖:
+python安装指令依赖:  
 `pip install bs4`  
 `pip install pysocks`  
